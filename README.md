@@ -1,14 +1,20 @@
 # SecondLife
-anything about me after I cleaning and sorting my information
+---
+anything about me after I cleaning and sorting my information.
 
-# Table of Contents
-SecondLife
-[Table of Contents](#2)
-Direct Links
-Activities
-Database
+---
+## Table of Contents
+---
 
-## DIRECT LINK
+[SecondLife](SecondLife)
+[Table of Contents](Table-of-Contents)
+[Direct Links](Direct-Links)
+[Activities](Activities)
+[Databases](Databases)
+
+---
+## DIRECT LINKS
+---
 > [Paypal](https://www.paypal.com/paypalme/secondeternia)
 > [Youtube](https://www.youtube.com/channel/UCYhAIrdtDN57A1eSr2QlQYw)
 > [Facebook](https://web.facebook.com/NameisHirio)
@@ -18,8 +24,9 @@ Database
 > [Discord Bot] -> On Learning
 > [Email] -> Hidden
 > [Website] -> Not Own
-
+---
 ## Activities
+---
 [] Looking For Job
 [] On Learning
    [] Create Website
@@ -89,3 +96,4 @@ Database
        [] Build Studio
        [] Build Park
        [] Build Mall
+---
